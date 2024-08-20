@@ -15,19 +15,24 @@ Basic support for text, images, and polls
 ### (Tentative) Timeline:
 8/21/24
 - Flowcharts (page chart, data chart, moving parts chart)
+
 8/23/24
 - Basic databases (SQL)
 - Account register + login
+
 8/25/24
 - Basic personal page for each account
+
 8/28/24
 - Basic community pages
 - Run web app on a server (DigitalOcean?) to save laptop resources
 - Host on a specific URL?
+
 8/31/24
 - Support for text and image posts
 - Instant messaging (only DMs for now)
 - Research into music/audio (.mp3) posts
+
 9/3/24
 - Customization for personal and community pages
 - Graphical improvement of web app using React/Next.js?
