@@ -1,4 +1,6 @@
 from flask import Flask, render_template, session, request, redirect, url_for
+#from db import * #this is probably overkill
+import json
 #deal with other imports later like db or sql
 #possibly use react/next.js to make website look better
 
